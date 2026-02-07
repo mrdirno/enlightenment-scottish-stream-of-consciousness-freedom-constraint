@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-scottish-stream-of-consciousness-freedom-constraint",
+  "title": "The Persevere of Alistair Caird",
+  "tagline": "A philosopher adrift in Leith's drizzle maps the moorland between thought and thing, seeking freedom in the very constraints that bind him.",
+  "target_words": 70000,
+  "actual_words": 71024,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Consciousness as Scottish Landscape",
+    "Freedom as Surrender to Necessity",
+    "The Material Interruption of Thought",
+    "Academic Drift vs. Dockside Truth"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Fossil and the Letter",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Dockside Socrates",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Persevere's Yellow Glow",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Administrative Verdict",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "A Walk Through the Gap",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Mags's Pity and Fondness",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Ghost of Yesterday's Coffee",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "The Rhythm of Chewing",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Warehouse Shadow",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Lowland Lilt",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Offside Trap of Kierkegaard",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Stone as Paperweight",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Throat of Rust",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Hole in the Sock",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Warmth of a Polystyrene Cup",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Concertina of Time",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Man Arguing with His Shadow",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Sarcophagus of Pastry",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Bad Neighbourhood of the Mind",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Ochre River of Pavement",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "The Anchor of Thinking",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Shutter of an Eyelid",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Residue of an Encounter",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Constraint of Purpose",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Alistair encounters another 'dockside Socrates'—a working person who dismantles his abstract philosophy with a single, material observation.",
+      "Compose Mags's internal monologue as she climbs the stairs to Alistair's flat, detailing her own philosophy forged from a life of practical constraints.",
+      "Imagine the letter from the university. Write its full, bureaucratic text, and then write Alistair's stream-of-consciousness reaction to each paragraph.",
+      "Extend the final, truncated sentence of the opening. Where does Alistair's purposeful walk lead him, and what new constraint does he discover?"
+    ],
+    "technical": [
+      "Build a 'Gap Mapper' tool that visualizes the linguistic distance between abstract thought-words and concrete thing-words used in the narrative.",
+      "Create a text generator that mimics the novel's style: combining dense, philosophical introspection with sharply observed, damp, urban Scottish imagery."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "David Hume",
+      "Virginia Woolf",
+      "Robert Burns",
+      "Albert Camus"
+    ]
+  },
+  "cover_prompt": "A solitary philosopher, Alistair Caird, stands motionless on the rain-slicked cobbles of Leith docks, his gaze turned inward as the physical world—a rusted ship chain, a pooling puddle, the gritty texture of stone—interrupts his stream of pure thought, [Detailed Scene & Context: in a hyper-detailed, atmospheric scene where the Scottish landscape metaphorically merges with consciousness; fog clings to the water like unresolved ideas, distant cranes resemble stark logic, and the moorland's raw expanse is suggested in the worn textures of his tweed coat and the endless grey horizon], [Artistic Style & Medium: in the atmospheric, textural, and psychologically charged style of Anselm Kiefer, executed with the material physicality of thick oil paint, raw earth, and embedded lead on canvas], [Composition & Camera: book cover framing, an intimate yet vast centered composition viewed from a low, dramatic angle that emphasizes both the figure's isolation and the towering, imposing weight of the industrial environment], [Lighting & Color Palette: diffused, dreary daylight with a cold, philosophical color palette of slate grey, damp charcoal, muted heather, and the occasional stark highlight of rusted orange or deep nautical blue], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
