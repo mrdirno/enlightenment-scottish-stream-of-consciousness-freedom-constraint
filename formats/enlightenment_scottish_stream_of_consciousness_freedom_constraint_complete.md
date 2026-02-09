@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The stone was a cold, specific fact against my palm. Not the smooth, river-worn cold of a pebble, but the jagged, quarried cold of a thing broken from a greater whole and left to argue with the weather. I turned it over. My thumb found the groove, the fossilised whisper of something that had lived when this grey town was a seabed. A city of silt and silent monsters. Now it was just a city of silt. The stone was a paperweight. It held down nothing but the idea of papers. The papers themselves were long gone, burned in a fit of clarity last Tuesday, or maybe it was the Tuesday before. Time had a habit of concertinaing in the damp.
@@ -103,6 +105,8 @@ What would I choose?
 Outside, a container ship sounded its horn, a long, low blast that was neither question nor answer, but simply a fact moving through the rain.
 
 ---
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -231,6 +235,8 @@ I began to write, not as Dr. Alistair Caird, but as the man with the hole in his
 The stream had found its bed. It was time to see where it would flow.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
